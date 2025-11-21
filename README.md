@@ -27,14 +27,13 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuJaeHwi&layout=compact&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f"
            /> </div> 
     </div>
-    
-## My Contribution Pac-Man
+
 
 ## My Contribution Pac-Man
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyuJaeHwi/RyuJaeHwi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyuJaeHwi/RyuJaeHwi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyuJaeHwi/RyuJaeHwi/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/RyuJaeHwi/RyuJaeHwi/output/pacman-contribution-graph-dark.svg">
+</p>
+
 
