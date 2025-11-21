@@ -1,52 +1,43 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=footer&reversal=true&text=Play%20GitHub!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:d4ff00&height=240&text=Play%20GitHub!&animation=scaleIn&fontColor=fcffe5&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> RyuJaeHwi </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li>인천대학교 | 임베디드시스템공학과</li><li>Incheon National University | Embedded System Engineering </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <br/></div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:yujaehwi02@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yujaehwi02@gmail.com"> </a>
+         <a href=https://summerchoco.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://summerchoco.tistory.com/"> </a>
+         <a href=https://velog.io/@lina6310/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@lina6310/posts"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=RyuJaeHwi&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuJaeHwi&layout=compact&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f"
+           /> </div> 
+    </div>
+
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+    🎮 Arcade Mode: Pac-Man Contributions
+  </h2>
 </div>
 
-###
+<p align="center">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/RyuJaeHwi/RyuJaeHwi/output/pacman-contribution-graph-dark.svg">
+</p>
 
-<p align="left">Hello World!!</p>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
