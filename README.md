@@ -29,7 +29,7 @@
     </div>
 
 
-## My Contribution Pac-Man
+## 🎮 Arcade Mode: Pac-Man Contributions
 
 <p align="center">
   <img alt="pacman contribution graph"
