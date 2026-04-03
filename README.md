@@ -25,8 +25,6 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   </div>
 
-  <br>
-
   <h3 style="color: #c9d1d9;">Tools</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
