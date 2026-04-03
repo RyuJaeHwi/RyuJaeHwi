@@ -13,8 +13,6 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
-  <br>
-
   <h3 style="color: #c9d1d9;">Frontend</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,7 +57,8 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RyuJaeHwi&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuJaeHwi&layout=compact&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f" />
-  </div> 
+  </div>
+  <br>
 </div>
 
 <div align="center">
