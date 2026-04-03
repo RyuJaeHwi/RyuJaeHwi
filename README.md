@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:d4ff00&height=240&text=Play%20GitHub!&animation=scaleIn&fontColor=fcffe5&fontSize=60" />
+    <img src="./assets/github_intro.gif" width="100%" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> RyuJaeHwi </h2>  
