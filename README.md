@@ -54,14 +54,14 @@
   <br>
 </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RyuJaeHwi&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuJaeHwi&layout=compact&bg_color=60,abfea9,fff9b8&title_color=1bf33f&text_color=1bf33f" />
   </div>
   <br>
-</div>
+</div> -->
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
