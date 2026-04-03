@@ -7,7 +7,8 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
     인천대학교 | 임베디드시스템공학과<br>
     Incheon National University | Embedded System Engineering
-  </div> 
+  </div>
+  <br>
 </div>
 
 <div align="center">
@@ -33,6 +34,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
+  <br>
 </div>
 
 <div align="center">
